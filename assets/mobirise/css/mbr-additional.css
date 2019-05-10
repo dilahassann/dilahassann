@@ -1446,7 +1446,7 @@ body {
 }
 .cid-rq26egrcJi .mbr-text {
   color: #767676;
-  text-align: left;
+  text-align: center;
 }
 .cid-rq26egrcJi .media-container-column {
   display: -webkit-flex;
@@ -1460,6 +1460,7 @@ body {
 }
 .cid-rq26egrcJi .card-title {
   color: #f197a3;
+  text-align: center;
 }
 .cid-rq2jHahoz4 {
   padding-top: 30px;
@@ -2085,7 +2086,7 @@ body {
 }
 .cid-rq2gFCXQzE {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 105px;
   background-color: #446594;
 }
 .cid-rq2gFCXQzE .progress {
