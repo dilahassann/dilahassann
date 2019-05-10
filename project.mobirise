@@ -254,13 +254,13 @@
             },
             ".mbr-timeline-title": {
               "text-align": "left",
-              "color": "#424242"
+              "color": "#232323"
             },
             ".mbr-section-title": {
               "color": "#fcf9f9"
             },
             ".mbr-timeline-date": {
-              "color": "#424242"
+              "color": "#232323"
             },
             ".mbr-timeline-text": {
               "text-align": "left"
